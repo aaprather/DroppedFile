@@ -1,7 +1,8 @@
 SUMMER 2018
 DroppedFile.com
-Project created with mainly ASP.NET C#, and a very small amount of jQuery.
-This project is not currently active due to school and internship, but I would like to eventually go back and use angularJS on parts of this project as well as refactor some of the code.
+Project created with ASP.NET C# & some JavaScript
+DroppedFile.com is no longer active, a rewritten version of DroppedFile will be available as a side feature to my development site @ http://prathdev.org/droppedfile
+
 
 ![ScreenShot](https://github.com/aaprather/DroppedFile/blob/master/Images/main_page_DroppedFile.jpg)
 ![ScreenShot](https://github.com/aaprather/DroppedFile/blob/master/Images/terms_DroppedFile.jpg)
