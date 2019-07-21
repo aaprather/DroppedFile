@@ -9,7 +9,7 @@ This project was created *Summer*  2018 following the completion of my Senior Ca
 
 This was a heavy .NET Web Forms project, with only the bare minimum amount of JavaScript used.
 
-Files were hosted via FTP using [VSFTPD](https://help.ubuntu.com/community/vsftpd) which was being ran on my  local Linux box.
+Files were hosted via FTP using [VSFTPD](https://help.ubuntu.com/community/vsftpd) which was being ran on my  local Linux box (Linux Mint, if you were curious).
 
 The database used was a Microsoft SQL Server being hosted by Amazon AWS.
 
