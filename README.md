@@ -1,6 +1,6 @@
 # - DroppedFile -
 
-Simple [ASP .NET](https://dotnet.microsoft.com/apps/aspnet) file sharing web-application.
+Simple [ASP .NET Web Framework](https://dotnet.microsoft.com/apps/aspnet) file sharing web-application.
 
 This ASP .NET version of DroppedFile is no longer being developed but a ReactJS version may eventually be written.
 
